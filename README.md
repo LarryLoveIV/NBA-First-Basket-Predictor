@@ -1,5 +1,5 @@
 # NBA-First-Basket-Predictor
-## __UNDER CONSTRUCTION__
+## UNDER CONSTRUCTION
 ### This is a project to predict which player will score the first basket in an NBA game.
 
 ## First, we build a model to predict the winner of the jump ball
